@@ -33,12 +33,7 @@ A menu-driven Library Management System implemented using a Singly Linked List.
 7. Return Book
 8. Exit
 ```
-## How to Run
 
-Compile:
-
-```bash
-g++ LibraryManagement.cpp -o library
 ```
 
 ```bash
