@@ -34,9 +34,5 @@ A menu-driven Library Management System implemented using a Singly Linked List.
 8. Exit
 ```
 
-```
 
-```bash
-./library
-```
 
